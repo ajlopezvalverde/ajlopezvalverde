@@ -13,7 +13,7 @@ I took my first steps by setting up websites and designing with WordPress/Presta
 </p>
 
 ## Main
-<p align="center" style="text-align: justify;">
+<p align="center">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
 </a>
@@ -36,7 +36,7 @@ I took my first steps by setting up websites and designing with WordPress/Presta
 </p>
 
 ## Secundary
-<p align="center" style="text-align: justify;">
+<p align="center">
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
@@ -45,7 +45,7 @@ I took my first steps by setting up websites and designing with WordPress/Presta
 </p>
 
 ## Hobbies
-<p align="center" style="text-align: justify;">
+<p align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
 <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" alt="Ethereum" title="Ethereum" width="36" height="36" /></a>
