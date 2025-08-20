@@ -16,7 +16,7 @@ I took my first steps by setting up websites and designing with WordPress/Presta
 </p>
 
 ## Main
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <td align="center">
@@ -121,11 +121,11 @@ I took my first steps by setting up websites and designing with WordPress/Presta
       </td>
     </tr>
   </table>
-</p>
+</div>
 
 
 ## Secundary
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <td align="center">
@@ -172,11 +172,11 @@ I took my first steps by setting up websites and designing with WordPress/Presta
       </td>
     </tr>
   </table>
-</p>
+</div>
 
 
 ## Hobbies
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <td align="center">
@@ -209,11 +209,11 @@ I took my first steps by setting up websites and designing with WordPress/Presta
       </td>
     </tr>
   </table>
-</p>
+</div>
 
 
 ## Socials
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <td align="center">
@@ -258,5 +258,5 @@ I took my first steps by setting up websites and designing with WordPress/Presta
       </td>
     </tr>
   </table>
-</p>
+</div>
 
