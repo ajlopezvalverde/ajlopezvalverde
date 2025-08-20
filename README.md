@@ -12,6 +12,9 @@ I took my first steps by setting up websites and designing with WordPress/Presta
 * 💬  Ask me about I enjoy automation, and in various projects at work, I have been able to help others increase their productivity thanks to it.
 </p>
 
+## Currently working on..
+<img src="howden-banner.jpg">
+
 ## Main
 <p align="center">
   <table>
@@ -30,29 +33,96 @@ I took my first steps by setting up websites and designing with WordPress/Presta
                alt="PHP" title="PHP" width="36" height="36" />
         </a>
       </td>
+      <td align="center">
+        <p>Git</p>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" 
+               alt="Git" title="Git" width="36" height="36" />
+        </a>
+      </td>
+      <td align="center">
+        <p>TypeScript</p>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" 
+               alt="TypeScript" title="TypeScript" width="36" height="36" />
+        </a>
+      </td>
+      <td align="center">
+        <p>HTML5</p>
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" 
+               alt="HTML5" title="HTML5" width="36" height="36" />
+        </a>
+      </td>
+      <td align="center">
+        <p>Angular</p>
+        <a href="https://angular.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" 
+               alt="Angular" title="Angular" width="36" height="36" />
+        </a>
+      </td>
+      <td align="center">
+        <p>CSS3</p>
+        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" 
+               alt="CSS3" title="CSS3" width="36" height="36" />
+        </a>
+      </td>
+      <td align="center">
+        <p>Sass</p>
+        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" 
+               alt="Sass" title="Sass" width="36" height="36" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p>Azure</p>
+        <a href="https://portal.azure.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" 
+               alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" />
+        </a>
+      </td>
+      <td align="center">
+        <p>Bootstrap</p>
+        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" 
+               alt="Bootstrap" title="Bootstrap" width="36" height="36" />
+        </a>
+      </td>
+      <td align="center">
+        <p>Webpack</p>
+        <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" 
+               alt="Webpack" title="Webpack" width="36" height="36" />
+        </a>
+      </td>
+      <td align="center">
+        <p>Material UI</p>
+        <a href="https://mui.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" 
+               alt="Material UI" title="Material UI" width="36" height="36" />
+        </a>
+      </td>
+      <td align="center">
+        <p>MySQL</p>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" 
+               alt="MySQL" title="MySQL" width="36" height="36" />
+        </a>
+      </td>
+      <td align="center">
+        <p>Docker</p>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" 
+               alt="Docker" title="Docker" width="36" height="36" />
+        </a>
+      </td>
     </tr>
   </table>
 </p>
-<p align="center">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
-</a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" />
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" / </a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a>
-<a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="Webpack" title="Webpack" width="36" height="36" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-</p>
+
 
 ## Secundary
 <p align="center">
