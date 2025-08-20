@@ -1,5 +1,3 @@
-## Hi, my name is Alejandro (Alex)
-
 ## Currently working as Full-Stack Developer at ..
 <img src="howden-banner.jpg">
 
