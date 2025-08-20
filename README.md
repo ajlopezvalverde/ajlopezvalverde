@@ -1,8 +1,6 @@
 ## Hi My name is Alejandro, but you can call me Alex
 
-## Full-Stack Developer
-
-## Currently working on..
+## Currently working as Full-Stack Developer at ..
 <img src="howden-banner.jpg">
 
 ## I’ll tell you a little about me…
