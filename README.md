@@ -1,11 +1,10 @@
-## Currently working as Full-Stack Developer at ..
-<img src="howden-banner.jpg">
+## Currently working as Full-Stack Developer at TRS Staffing Solutions
 
 ## I’ll tell you a little about me…
 <p align="left">
 I took my first steps by setting up websites and designing with WordPress/PrestaShop. While exploring, I came across a framework called Symfony, and I have been working with it ever since it's been around seven years now.
 
-* 🌍  I'm based in España
+* 🌍  I'm based in Spain
 * ✉️  You can contact me at [alex.lopez.valverde@gmail.com](mailto:alex.lopez.valverde@gmail.com)
 * 🧠  I'm currently learning Angular, Python
 * 💬  Ask me about I enjoy automation, and in various projects at work, I have been able to help others increase their productivity thanks to it.
